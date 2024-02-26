@@ -159,7 +159,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 ## Subsets
 
-- [ ] [Subsets](https://leetcode.com/problems/subsets/)
+- [X] [Subsets](https://leetcode.com/problems/subsets/)
 
 - [ ] [Permutations](https://leetcode.com/problems/permutations/)
 
